@@ -1,1 +1,3 @@
 # Covid-19-bed-booking-File-structures
+
+The Covid-19 Bed Slot Booking System is a file structure-based project designed to manage and streamline the process of booking hospital beds for Covid-19 patients. This system leverages efficient file handling techniques to store and retrieve information about bed availability, patient details, and booking status. Users can check for available slots in real-time, book a bed, and receive confirmation. The system ensures that all data is consistently updated, providing an accurate and reliable tool for hospitals and patients alike. By reducing manual processes and enhancing accessibility, this project aims to improve resource allocation and patient care during the pandemic.
